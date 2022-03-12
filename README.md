@@ -1,2 +1,2 @@
 # python-first-steps
-First steps in Python
+First steps in Python development
